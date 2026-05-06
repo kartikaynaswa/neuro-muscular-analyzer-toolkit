@@ -1,0 +1,2 @@
+Session_Timestamp,Action_File,EEG_File,EMG_File,EEG_Start_Error,EEG_End_Error,EMG_Start_Error,EMG_End_Error
+1776200275.883911,data\raw\2026-04-14_13-57-52_kar_s1.csv,data\raw\OpenBCI-RAW-2026-04-14_13-57-42.txt,data\raw\myo_data_20260414_135938_left.csv,0,0,0,0
